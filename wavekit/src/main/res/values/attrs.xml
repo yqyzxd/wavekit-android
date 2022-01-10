@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- waveview -->
+    <declare-styleable name="Y_WaveView">
+        <attr name="waveBackgroudColor" format="color"></attr>
+        <attr name="waveProgressColor" format="color"></attr>
+        <attr name="waveMax" format="integer"></attr>
+        <attr name="waveProgress" format="integer"></attr>
+    </declare-styleable>
+
+</resources>
